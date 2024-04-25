@@ -1,6 +1,7 @@
 # Modelo de currículo usando editor do GitHub e readme.so
 
 Construa um Currículo Atraente e Interativo com o GitHub e Readme.so:
+
 Crie um currículo que se destaque da multidão e impressione os recrutadores!
 
 Combinando o poder do GitHub e do Readme.so, você pode construir um currículo online dinâmico e interativo que vai além do texto simples.
