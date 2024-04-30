@@ -8,7 +8,7 @@ redor.
 -- Sou um profissional em constante evolução, sempre buscando aprimorar minhas habilidades e conhecimentos. Acredito que o aprendizado contínuo é fundamental para o sucesso profissional e pessoal.
 
 🔗 Links
-[Currículo](https://github.com/juniorlima27/curriculo/blob/main/curriculo_v1.md#curr%C3%ADculo)  
+(!)[Currículo](https://github.com/juniorlima27/curriculo/blob/main/curriculo_v1.md#curr%C3%ADculo)  
 
 [linkedin](https://www.linkedin.com/in/junior-lima-24446757/)
 
