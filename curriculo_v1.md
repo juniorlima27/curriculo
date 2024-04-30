@@ -89,6 +89,95 @@ o	Análise de riscos e criação de processos de RoPa e DPIA.
 ### • Ferramentas utilizadas:
 		Excel, Power BI, Dashboard, Trello e Scrum.
 
+# Formação Acadêmica
+•	MBA Segurança da Informação, Cruzeiro do Sul (Início 11/2023 – Previsto 01/2025) – 1 ano
+
+•	Segurança da Informação, UNIP (2021-2023) – 2 anos
+
+•	Técnico em Hardware, Microcamp – 1,5 anos
+
+# Cursos Extracurrícular
+
+### •	Formação SOC Analyst, CYSOURCE – (jun/2023)
+###  Networking Fundamentals, CYSOURCE 4h: 
+Treinamento e práticas em fundamentos de rede, TCP-IP e protocolos, Conexões e identificadores, Protocolos Diversificados
+
+###  Linux LPI Essentials, CYSOURCE 44h:
+Treinamento e práticas em instalação de sistemas operacionais, trabalho básico Linux, sistemas de arquivos Linux, desenvolvimento básico BASH, processos lógicos e inicialização sistema operacional, comunicação de dados e serviços de rede, usuários e permissões.
+
+###  SOC, CYSOURCE 107h: 
+Treinamento e práticas em ambiente Windows, Fundamentos segurança cibernética, administração AD, fundamentos do SIEM/SOC, prática do QRadar SIEM. 
+
+# Cursos Extracurrícular
+
+•	Udemy, Hacking Ético Kali, Nmap e Metasploit – 8 horas (maio/2021)
+
+•	Udemy, Windows Server 2019 – 12,5 horas (maio/2022)
+
+•	Udemy, ISO 27001 Fundamentos e EXIN – 8,5 horas (jun/2021)
+
+•	Cisco Networking Academy, Cibersecurity Essentials – 100 horas (out/2021)
+
+•	Cisco Networking Academy, CCNAv7 Introdução a redes – 100 horas (jan/2022)
+
+•	Cisco Networking Academy, CyberOps Associate – 100 horas (abr/2022)
+
+•	Udemy, Google Cloud Associate Engineer – 14 horas (jun/2022) 
+
+•	Curso e Vídeo, Programação Python 3 – 80 horas (ago/2022)
+
+•	Enap, Introdução à LGPD – 10 horas (set/2022)
+
+•	Enap, Fundamentos à LGPD – 15 horas (out/2022)
+
+•	Simplifica, Excel, Dashboard e PowerBi – 15 horas (nov/2022)
+
+•	Enap, Gestão do Tempo e Produtividade – 40 horas (jan/2023)
+
+•	Udemy, Gestão Ágil com SCRUM – 6,5 horas (jan/2023)
+
+•	Curso e Vídeo, Banco de Dados MySQL – 40 horas (jan/2023)
+
+•	Veduca.org, Gestão de Projeto – PMBOK – 45 horas (jul/2023)
+
+•	Google Project Management, Gerenciamento Projetos – (jul/2023)
+
+•	GranCursos, BPM, BPMN, CBOK – (Set/2023)
+
+•	GranCursos, ISO27001, 27002, 27005, ITL4 e COBIT – (Set/2023)
+
+•	Udemy, Gestão avançada OpenVas “Greenbone” – (Out/2023)
+
+•	AWS-Boticário, Fundamentos AWS – (Out/2023)
+
+•	Udemy, Configuração Fortigate Firewall NSE4 – (Out/23)
+
+•	iPED, Customer Success – 80 horas (Out/2023) – (Nov/23)
+
+•	SENAI, Hackers do Bem – Nivelamento – 80 horas (Mar/2024)
+
+•	Nutor, Dra Silvia Brunelli – Mapeamento de Processos da LGPD – 5 horas (Fev/24)
+
+•	Nutor, Dra Silvia Brunelli – Maratona da Adequação à LGPD – (Fev/24)
+
+•	Udemy, PHP e HTML – cursando (previsão abril/24)
+
+•	Cisco Networking Academy, Hacker Ético – cursando (previsão junho/24)
+
+•	SENAI, Programa Hackers do Bem - cursando
+
+# Idiomas
+
+•	Inglês – Intermediário 
+
+•	Espanhol – básico 
+
+# Atividades Extracurrícular
+•	Natação desde 2018. academia desde 2021
+
+•	Ajuda instituição de animais abandonados desde 2015
+
+•	Serviço voluntario à blindagem e recuperação de redes sociais.
 
 ## Referência
  - [Meu perfil no Linkedin](https://www.linkedin.com/in/junior-lima-24446757/)
