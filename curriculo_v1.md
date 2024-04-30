@@ -27,7 +27,7 @@ o	Desenvolvimento e implementação do Sistema de Gestão de Segurança da Infor
 
 o	Garantia da conformidade com os requisitos legais e regulatórios, incluindo a LGPD.
 
-###•	Treinamento e conscientização:
+### •	Treinamento e conscientização:
 
 o	Treinamento de equipe para proteção e uso adequado de dados, incluindo políticas de segurança e melhores práticas.
 
@@ -43,7 +43,7 @@ o	Condução de reuniões com clientes e fornecedores de ferramentas de proteç�
 o	Investigação e análise de incidentes de segurança, incluindo a identificação da causa raiz e a implementação de medidas corretivas.
 o	Desenvolvimento de planos de resposta a incidentes para minimizar o impacto e garantir a recuperação rápida.
 
-### Ferramentas utilizadas:
+### •	Ferramentas utilizadas:
 o	Firewalls, EDR, OWASP Zap, OpenLDAP, OSIN, RD Station, Jira, Scrum, MySQL e Frameworks, OpenVas
 •	Conhecimento das normas ISO/IEC 27001, 27002, 27003, 27005, 27701, 22301, 31000 e BCB nº85.
 •	Capacidade de criar relatórios técnicos e executivos de pentest, avaliação e análise de risco da empresa.
