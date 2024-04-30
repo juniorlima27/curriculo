@@ -6,7 +6,8 @@ versátil e adaptável, amo conhecer novos lugares, culturas, pessoas e comidas 
 redor.
 
 -- Sou um profissional em constante evolução, sempre buscando aprimorar minhas habilidades e conhecimentos. Acredito que o aprendizado contínuo é fundamental para o sucesso profissional e pessoal.
-   
+
+- [CURRÍCULO] (https://github.com/juniorlima27/curriculo/blob/main/curriculo_v1.md#curr%C3%ADculo)   
 # Minha história
 
 -- Sobre a minha trajetória, quando eu tinha 15 anos iniciei meus estudos na Microcamp, Técnico em Hardware, não ingressei na área devido a mudanças na vida, fiquei desde  
