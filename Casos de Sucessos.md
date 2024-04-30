@@ -47,5 +47,5 @@ o Construimos um programa em conformidade, afim garantir compliance LGPD esteja 
 
 o Elaboração de análise de risco, ROPA (Record of Processing Activities) ou seja, o Registro das Atividades de Tratamento e RIPD (Relatório de Impacto à Proteção de Dados na LGPD);
 
-[Voltar ao currículo](https://github.com/juniorlima27/curriculo.git)
+[Voltar ao currículo](https://github.com/juniorlima27/curriculo/blob/main/curriculo_v1.md)
 
