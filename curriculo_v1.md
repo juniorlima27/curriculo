@@ -60,5 +60,5 @@ Responsável proteção de dados e infraestrutura de segurança de um projeto de
 
 ## Referência
  - [Meu perfil no Linkedin](https://www.linkedin.com/in/junior-lima-24446757/)
- - [Sobre mim]([https://github.com/matiassingers/awesome-readme](https://github.com/juniorlima27/curriculo/blob/main/README.md)
+ - [Sobre mim](https://github.com/juniorlima27/curriculo/blob/main/README.md)
  
