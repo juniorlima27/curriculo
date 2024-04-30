@@ -17,9 +17,7 @@ Meu objetivo é contribuir para a segurança da informação de empresas de dife
 # Experiência Profissional
 Analista de Segurança da informação | NexTVision (10/2023 – Atual)
 
-Responsável proteção de dados e infraestrutura de segurança de um projeto de Banco, com experiência em gestão completa de segurança da informação.
-
-### Visão holística da segurança da informação:
+Responsável proteção de dados e infraestrutura de segurança de um projeto de Banco, com experiência em gestão completa de segurança da informação e visão holística.
 
 ###	Implantação e gestão do SGSI:
 
@@ -44,9 +42,10 @@ o	Investigação e análise de incidentes de segurança, incluindo a identifica�
 o	Desenvolvimento de planos de resposta a incidentes para minimizar o impacto e garantir a recuperação rápida.
 
 ### •	Ferramentas utilizadas:
-o	Firewalls, EDR, OWASP Zap, OpenLDAP, OSIN, RD Station, Jira, Scrum, MySQL e Frameworks, OpenVas
+• Firewalls, EDR, OWASP Zap, OpenLDAP, OSIN, RD Station, Jira, Scrum, MySQL e Frameworks, OpenVas
 •	Conhecimento das normas ISO/IEC 27001, 27002, 27003, 27005, 27701, 22301, 31000 e BCB nº85.
 •	Capacidade de criar relatórios técnicos e executivos de pentest, avaliação e análise de risco da empresa.
+
 ### •	Atuação como DPO (Encarregado de Dados):
 o	Responsável pela conformidade com a LGPD e pela proteção dos dados pessoais da empresa.
 
