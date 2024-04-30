@@ -7,7 +7,7 @@ redor.
 
 -- Sou um profissional em constante evolução, sempre buscando aprimorar minhas habilidades e conhecimentos. Acredito que o aprendizado contínuo é fundamental para o sucesso profissional e pessoal.
    
-## Minha história
+# Minha história
 
 -- Sobre a minha trajetória, quando eu tinha 15 anos iniciei meus estudos na Microcamp, Técnico em Hardware, não ingressei na área devido a mudanças na vida, fiquei desde  
 os meus 16 anos trabalhando com projetos civis, em seguida aos 20 anos entrei na área de projetos mecânicos, onde fiquei até o ano de 2019, meu maior desafio na 
