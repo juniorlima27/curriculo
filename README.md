@@ -1,12 +1,11 @@
 # Sobre mim
 
--- Sou uma pessoa equilibrada, casado e tenho dois cachorros, que são meus companheiros de vida. Acredito que o equilíbrio entre vida profissional e pessoal é fundamental 
+-- Me chamo Geraldo Lima Junior, tenho 40 anos, sou uma pessoa equilibrada, casado e tenho dois cachorros, que são meus companheiros de vida. Acredito que o equilíbrio entre vida profissional e pessoal é fundamental 
 para o bem-estar e a felicidade. Minha paixão por viagens e imersão em diferentes culturas me proporciona uma visão de mundo mais ampla e me torna um profissional mais 
 versátil e adaptável, amo conhecer novos lugares, culturas, pessoas e comidas típicas, o que me enriquece como ser humano e me permite entender melhor o mundo ao meu 
 redor.
 
--- Sou um profissional em constante evolução, sempre buscando aprimorar minhas habilidades e conhecimentos. Acredito que o aprendizado contínuo é fundamental para o sucesso 
-   profissional e pessoal.
+-- Sou um profissional em constante evolução, sempre buscando aprimorar minhas habilidades e conhecimentos. Acredito que o aprendizado contínuo é fundamental para o sucesso profissional e pessoal.
    
 ## Minha história
 
