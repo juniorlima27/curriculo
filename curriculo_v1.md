@@ -3,16 +3,16 @@
 Meu objetivo é contribuir para a segurança da informação de empresas de diferentes portes, utilizando meus conhecimentos e habilidades de proteção de dados, garantindo a confidencialidade, integridade e disponibilidade atuando na área de Segurança da Informação.
 
 ### Conhecimento com ferramentas de segurança
-•	Wireshark, Kali Linux, Maltego, Nmap, NetCat, Metasploit, Spidefoot e Recon-ng;
+o		Wireshark, Kali Linux, Maltego, Nmap, NetCat, Metasploit, Spidefoot e Recon-ng;
 
-•	GreenBone (OpenVas), Nessus, PGP, SIEM/SOC, QRadar, OWASP ZAP, Fortigate Firewall NS4;
+o		GreenBone (OpenVas), Nessus, PGP, SIEM/SOC, QRadar, OWASP ZAP, Fortigate Firewall NS4;
 
 ### Conhecimento de frameworks e metodogias
-•	LGPD, ISO/IEC 27001, 27002, 27003, 27005, 31000, 22301 (PCN) e BCB nº 85;
+o		LGPD, ISO/IEC 27001, 27002, 27003, 27005, 31000, 22301 (PCN) e BCB nº 85;
 
-•	CIS Control, NIST, OWASP, OSSTMM, PTES, NIST e PCI DSS.
+o		CIS Control, NIST, OWASP, OSSTMM, PTES, NIST e PCI DSS.
 
-•	COBIT, ITIL4, PMBOK, BPM, CBOK, Succes Milestones, Scrum, Trello, Jira e OpenLDAP;
+o		COBIT, ITIL4, PMBOK, BPM, CBOK, Succes Milestones, Scrum, Trello, Jira e OpenLDAP;
 
 # Experiência Profissional
 Analista de Segurança da informação | NexTVision (10/2023 – Atual)
@@ -33,18 +33,25 @@ o	Conscientização sobre os riscos cibernéticos e como mitigá-los.
 
 ### •	Pentest e análise de vulnerabilidades:
 o	Execução de testes de penetração (pentest) em aplicações web, servidores, sites e computadores para identificar e corrigir vulnerabilidades.
+
 o	Análise de vulnerabilidades e avaliação de riscos para determinar as medidas de mitigação adequadas.
-•	Gestão de projetos de segurança:
+
+### •	Gestão de projetos de segurança:
 o	Criação e gerenciamento de projetos de segurança para bancos, incluindo a definição de escopo e cronograma.
+
 o	Condução de reuniões com clientes e fornecedores de ferramentas de proteção para garantir a implementação eficaz das soluções de segurança.
-•	Resposta a incidentes:
+
+### •	Resposta a incidentes:
 o	Investigação e análise de incidentes de segurança, incluindo a identificação da causa raiz e a implementação de medidas corretivas.
+
 o	Desenvolvimento de planos de resposta a incidentes para minimizar o impacto e garantir a recuperação rápida.
 
 ### •	Ferramentas utilizadas:
-• Firewalls, EDR, OWASP Zap, OpenLDAP, OSIN, RD Station, Jira, Scrum, MySQL e Frameworks, OpenVas
-•	Conhecimento das normas ISO/IEC 27001, 27002, 27003, 27005, 27701, 22301, 31000 e BCB nº85.
-•	Capacidade de criar relatórios técnicos e executivos de pentest, avaliação e análise de risco da empresa.
+o	 Firewalls, EDR, OWASP Zap, OpenLDAP, OSIN, RD Station, Jira, Scrum, MySQL e Frameworks, OpenVas
+
+o		Conhecimento das normas ISO/IEC 27001, 27002, 27003, 27005, 27701, 22301, 31000 e BCB nº85.
+
+o		Capacidade de criar relatórios técnicos e executivos de pentest, avaliação e análise de risco da empresa.
 
 ### •	Atuação como DPO (Encarregado de Dados):
 o	Responsável pela conformidade com a LGPD e pela proteção dos dados pessoais da empresa.
