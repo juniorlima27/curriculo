@@ -1,5 +1,3 @@
-## Currículo.
-
 ## Geraldo de Souza Lima Junior
 Meu objetivo é contribuir para a segurança da informação de empresas de diferentes portes, utilizando meus conhecimentos e habilidades de proteção de dados, garantindo a confidencialidade, integridade e disponibilidade atuando na área de Segurança da Informação.
 
@@ -54,6 +52,6 @@ o	Responsável pela conformidade com a LGPD e pela proteção dos dados pessoais
 
 
 ## Referência
- - [Linkedin](https://www.linkedin.com/in/junior-lima-24446757/)
+ - [Meu perfil no Linkedin](https://www.linkedin.com/in/junior-lima-24446757/)
  - [Sobre mim]([https://github.com/matiassingers/awesome-readme](https://github.com/juniorlima27/curriculo/blob/main/README.md)
  
