@@ -2,12 +2,12 @@
 # Geraldo de Souza Lima Junior
 Meu objetivo é contribuir para a segurança da informação de empresas de diferentes portes, utilizando meus conhecimentos e habilidades de proteção de dados, garantindo a confidencialidade, integridade e disponibilidade atuando na área de Segurança da Informação.
 
-## Conhecimento com ferramentas de segurança
+#### Conhecimento com ferramentas de segurança
 •	Wireshark, Kali Linux, Maltego, Nmap, NetCat, Metasploit, Spidefoot e Recon-ng;
 
 •	GreenBone (OpenVas), Nessus, PGP, SIEM/SOC, QRadar, OWASP ZAP, Fortigate Firewall NS4;
 
-# Conhecimento de frameworks e metodogias
+### Conhecimento de frameworks e metodogias
 •	LGPD, ISO/IEC 27001, 27002, 27003, 27005, 31000, 22301 (PCN) e BCB nº 85;
 
 •	CIS Control, NIST, OWASP, OSSTMM, PTES, NIST e PCI DSS.
@@ -19,7 +19,7 @@ Analista de Segurança da informação | NexTVision (10/2023 – Atual)
 
 Responsável proteção de dados e infraestrutura de segurança de um projeto de Banco, com experiência em gestão completa de segurança da informação.
 
-Visão holística da segurança da informação:
+### Visão holística da segurança da informação:
 
 •	Implantação e gestão do SGSI:
 
@@ -42,7 +42,7 @@ o	Condução de reuniões com clientes e fornecedores de ferramentas de proteç�
 o	Investigação e análise de incidentes de segurança, incluindo a identificação da causa raiz e a implementação de medidas corretivas.
 o	Desenvolvimento de planos de resposta a incidentes para minimizar o impacto e garantir a recuperação rápida.
 
-Ferramentas utilizadas:
+### Ferramentas utilizadas:
 •	Experiência em diversas ferramentas de segurança:
 o	Firewalls, EDR, OWASP Zap, OpenLDAP, OSIN, RD Station, Jira, Scrum, MySQL e Frameworks, OpenVas
 •	Conhecimento das normas ISO/IEC 27001, 27002, 27003, 27005, 27701, 22301, 31000 e BCB nº85.
