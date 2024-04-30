@@ -13,6 +13,8 @@ redor.
 
 [Linkedin](https://www.linkedin.com/in/junior-lima-24446757/)
 
+[Casos de Sucessos] (https://github.com/juniorlima27/curriculo/blob/main/Casos%20de%20Sucessos.md)
+
 # Minha história
 
 -- Sobre a minha trajetória, quando eu tinha 15 anos iniciei meus estudos na Microcamp, Técnico em Hardware, não ingressei na área devido a mudanças na vida, fiquei desde  
