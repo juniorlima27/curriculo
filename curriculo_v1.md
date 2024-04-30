@@ -15,5 +15,5 @@ Meu objetivo é contribuir para a segurança da informação de empresas de dife
 
 ## Referência
  - [Linkedin](https://www.linkedin.com/in/junior-lima-24446757/)
- - [GitHub](https://github.com/matiassingers/awesome-readme)
+ - [GitHub]([https://github.com/matiassingers/awesome-readme](https://github.com/juniorlima27/curriculo/blob/main/README.md)
  
