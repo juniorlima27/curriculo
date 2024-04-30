@@ -13,7 +13,7 @@ redor.
 
 [Linkedin](https://www.linkedin.com/in/junior-lima-24446757/)
 
-[Casos de Sucessos] (https://github.com/juniorlima27/curriculo/blob/main/Casos%20de%20Sucessos.md)
+[Casos de Sucessos](https://github.com/juniorlima27/curriculo/blob/main/Casos%20de%20Sucessos.md)
 
 # Minha história
 
