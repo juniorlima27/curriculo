@@ -2,7 +2,7 @@
 # Geraldo de Souza Lima Junior
 Meu objetivo é contribuir para a segurança da informação de empresas de diferentes portes, utilizando meus conhecimentos e habilidades de proteção de dados, garantindo a confidencialidade, integridade e disponibilidade atuando na área de Segurança da Informação.
 
-#### Conhecimento com ferramentas de segurança
+### Conhecimento com ferramentas de segurança
 •	Wireshark, Kali Linux, Maltego, Nmap, NetCat, Metasploit, Spidefoot e Recon-ng;
 
 •	GreenBone (OpenVas), Nessus, PGP, SIEM/SOC, QRadar, OWASP ZAP, Fortigate Firewall NS4;
@@ -21,18 +21,19 @@ Responsável proteção de dados e infraestrutura de segurança de um projeto de
 
 ### Visão holística da segurança da informação:
 
-•	Implantação e gestão do SGSI:
+###	Implantação e gestão do SGSI:
 
 o	Desenvolvimento e implementação do Sistema de Gestão de Segurança da Informação (SGSI) com base nas normas ISO/IEC 27001, 27002, 27003, 27005, 27701, 22301 e 31000.
 
 o	Garantia da conformidade com os requisitos legais e regulatórios, incluindo a LGPD.
 
-•	Treinamento e conscientização:
+###•	Treinamento e conscientização:
 
 o	Treinamento de equipe para proteção e uso adequado de dados, incluindo políticas de segurança e melhores práticas.
 
 o	Conscientização sobre os riscos cibernéticos e como mitigá-los.
-•	Pentest e análise de vulnerabilidades:
+
+### •	Pentest e análise de vulnerabilidades:
 o	Execução de testes de penetração (pentest) em aplicações web, servidores, sites e computadores para identificar e corrigir vulnerabilidades.
 o	Análise de vulnerabilidades e avaliação de riscos para determinar as medidas de mitigação adequadas.
 •	Gestão de projetos de segurança:
@@ -43,11 +44,10 @@ o	Investigação e análise de incidentes de segurança, incluindo a identifica�
 o	Desenvolvimento de planos de resposta a incidentes para minimizar o impacto e garantir a recuperação rápida.
 
 ### Ferramentas utilizadas:
-•	Experiência em diversas ferramentas de segurança:
 o	Firewalls, EDR, OWASP Zap, OpenLDAP, OSIN, RD Station, Jira, Scrum, MySQL e Frameworks, OpenVas
 •	Conhecimento das normas ISO/IEC 27001, 27002, 27003, 27005, 27701, 22301, 31000 e BCB nº85.
 •	Capacidade de criar relatórios técnicos e executivos de pentest, avaliação e análise de risco da empresa.
-•	Atuação como DPO (Encarregado de Dados):
+### •	Atuação como DPO (Encarregado de Dados):
 o	Responsável pela conformidade com a LGPD e pela proteção dos dados pessoais da empresa.
 
 
