@@ -15,11 +15,11 @@ Meu objetivo é contribuir para a segurança da informação de empresas de dife
 		COBIT, ITIL4, PMBOK, BPM, CBOK, Succes Milestones, Scrum, Trello, Jira e OpenLDAP;
 
 # Experiência Profissional
-Analista de Segurança da informação | NexTVision (10/2023 – Atual)
+### 1. Analista de Segurança da informação | NexTVision (10/2023 – Atual)
 
 Responsável proteção de dados e infraestrutura de segurança de um projeto de Banco, com experiência em gestão completa de segurança da informação e visão holística.
 
-###	Implantação e gestão do SGSI:
+### • Implantação e gestão do SGSI:
 
 	Desenvolvimento e implementação do Sistema de Gestão de Segurança da Informação (SGSI) com base nas normas ISO/IEC 27001, 27002, 27003, 27005, 27701, 22301 e 31000.
 
@@ -56,6 +56,38 @@ Responsável proteção de dados e infraestrutura de segurança de um projeto de
 ### •	Atuação como DPO (Encarregado de Dados):
 	Responsável pela conformidade com a LGPD e pela proteção dos dados pessoais da empresa.
 
+### 2. Consultor de Segurança e Proteção de Dados | Littec Tecnologia (08/2022 – 08/2023)
+
+### •	Assessoramento na adequação à LGPD:
+o	Orientação e acompanhamento da empresa na implementação da Lei Geral de Proteção de Dados Pessoais (LGPD) 
+
+o	Elaboração de políticas de segurança e governança de dados.
+
+o	Análise de riscos e criação de processos de RoPa e DPIA.
+
+### •	Treinamento e conscientização:
+		Treinamento de equipe sobre a LGPD e boas práticas de proteção de dados
+
+		Conscientização sobre os riscos e responsabilidades relacionados à LGPD
+
+### • Gestão de projetos de segurança:
+	Criação e gerenciamento de projetos de segurança da informação
+
+	Definição de escopo, orçamento e cronograma dos projetos
+
+		Acompanhamento dos marcos de sucesso e entrega dos resultados
+
+### • Análise de segurança:
+		Realização de análises de segurança para identificar vulnerabilidades e riscos.
+
+		Elaboração de planos de ação para mitigar os riscos e melhorar a segurança da informação.
+
+### •	Plano de continuidade de negócio:
+
+		Desenvolvimento de um plano de continuidade de negócio para garantir a recuperação rápida em caso de incidentes.
+
+### • Ferramentas utilizadas:
+		Excel, Power BI, Dashboard, Trello e Scrum.
 
 
 ## Referência
