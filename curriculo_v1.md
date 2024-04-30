@@ -183,4 +183,5 @@ Treinamento e práticas em ambiente Windows, Fundamentos segurança cibernética
 ## Referência
  - [Meu perfil no Linkedin](https://www.linkedin.com/in/junior-lima-24446757/)
  - [Sobre mim](https://github.com/juniorlima27/curriculo/blob/main/README.md)
+ - [Casos_Sucessos](https://github.com/juniorlima27/curriculo/blob/main/Casos%20de%20Sucessos.md)
  
