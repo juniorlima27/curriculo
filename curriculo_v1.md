@@ -98,7 +98,8 @@ o	Análise de riscos e criação de processos de RoPa e DPIA.
 
 # Cursos Extracurrícular
 
-## Formação SOC Analyst, CYSOURCE – (jun/2023)
+### Formação SOC Analyst, CYSOURCE – (jun/2023)
+
 ###  Networking Fundamentals, CYSOURCE 4h: 
 Treinamento e práticas em fundamentos de rede, TCP-IP e protocolos, Conexões e identificadores, Protocolos Diversificados
 
