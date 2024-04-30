@@ -21,7 +21,7 @@ emprego com remuneração do mercado, tive excelente crescimento profissional na
 riscos e treinamentos ao cliente. Com a mentoria que obtive ganhei destaque na empresa, desempenho nas atividades do dia a dia, controle mesmo sobre pressão, adaptação a 
 mudanças bruscas, tomadas de decisões assertivas. 
 
-## Softs skills
+# Softs skills
 
 -- Comunicação eficaz --
 
@@ -47,15 +47,15 @@ mudanças bruscas, tomadas de decisões assertivas.
     
 •	Proatividade e iniciativa: Sou proativo e tomo iniciativa para resolver problemas e superar desafios.
 
-## Quais valores que busco na empresa?
+# Quais valores que busco na empresa?
 
 Acredito que os valores movem pessoas e empresas para seu objetivo. Busco pertencer a uma empresa, compromisso, crescimento contínuo, ética, respeito à vida, integridade 
 e paixão por tecnologia.
 
-## O que me motiva na carreira?  
+# O que me motiva na carreira?  
 Paixão em proteger pessoas e empresas de ataques cibernéticos ou crimes digitais, buscar novas tecnologias, vencer desafios, trazendo soluções para empresa e cliente. 
 
-## Meus planos profissionais e pessoais a curto prazo (próximos 6 meses)
+# Meus planos profissionais e pessoais a curto prazo (próximos 6 meses)
 
 Meus planos profissionais é ter oportunidade de estar na melhor Empresa de Segurança do Brasil, desempenhando o melhor resultado, conquistando as certificações na área de 
 segurança da informação, quanto a planos de curto prazo é proporcionar conforto para minha família.
